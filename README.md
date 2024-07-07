@@ -1,3 +1,4 @@
 #Curso de Git y Github
 
-Hola estoy aprendiendo bien las bases de Git
+Hola enseñado las bases de Git
+Agregando más contenido al _README.md_
